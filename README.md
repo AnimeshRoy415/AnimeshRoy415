@@ -12,7 +12,7 @@ include Java, hibernate as well as Springboot.
 
 <!-- - 🔭 I’m currently working on this page.  -->
 - 🌱 I’m currently learning LLD 
-- 👯 I’m looking to collaborate on: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnniRoy)   
+- 👯 I’m looking to collaborate on: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnimeshRoy415)  
 - 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](animesh.roy.415@gmail.com)
 
 
