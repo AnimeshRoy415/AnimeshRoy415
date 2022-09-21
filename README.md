@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Animesh Roy
 ### Back-End-Web Developer
-![Back-End-Web Developer](https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/298224345_3288623044718496_4097521048809575198_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=IHtugrdhQIkAX-E_IpJ&_nc_ht=scontent.fccu3-1.fna&oh=00_AT89cE8Ild7rBsoQRhavPYccGLaJZLX4H2m_Jx0eANRkUg&oe=62F7DEE9)
+![Back-End-Web Developer](https://pbs.twimg.com/media/FZqozwCVUAADT47?format=jpg&name=small)
 
 I'm a Back End Web developer who is passionate about making errors-free websites with 100% client satisfaction. I have a passion for
 learning and sharing my knowledge with others as publicly as
